@@ -10,8 +10,17 @@ We frequently receive feedback reflecting confusion around radical threat models
 |:-------------:|:-------------------------------:|:------------------:|:-------------:|:----------------------:|:--------:|:----:| 
 | Intellexa     | North Macedonia/Israel/Hungary  | 2023?              | ???           | Spyware package with Android/iOS 0-day exploits| 12-month | €8,000,000 | 
 | [Operation Zero](https://opzero.ru/en/prices/)| Russia    | 2025               | Active        | 0-day | N/A | varies |
+| [NSO](https://www.nsogroup.com/)     | Israel/US  | [Oct 2025](https://techcrunch.com/2025/10/10/spyware-maker-nso-group-confirms-acquisition-by-us-investors/) | Active           | Spyware package with Android/iOS 0-day exploits| ??? | unknown mininal package up to 55 million |
+| Quadream | Israel | 2025        | Active         | Spyware package with 0-day exploits | ??? | varies |
 | [Advanced Security Solution](https://advance-sec.com/#bounty)| UAE                 | 2025               | Active        | 0-day | N/A | varies |
 | [Cellebrite](https://cellebrite.com/en/home/) | Israel | 2025        | Active         | Forensics with 0-day exploits | ??? | $10k-$300k |
+| [Memento Labs (formerly Hacking Team)](https://mem3nt0.com/) | Italy | 2025        | Active         | Spyware package with 0-day exploits | ??? | varies |
+| Paragon Solutions | Israel | 2025        | Active         | Spyware package with 0-day exploits | ??? | varies |
+| [RCS Labs](https://rcslab.it/) | Italy | 2025        | Active         | Spyware package with 0-day exploits | ??? | varies |
+| Vilicius Holding (formerly FinFisher) | Germany | 2025        | Active         | Spyware package with 0-day exploits | ??? | varies |
+| Saito Tech (formerly Candiru) | Israel | 2025        | Active         | Spyware package with 0-day exploits | ??? | varies |
+
+
 
 ### Operation Zero
 ![1](https://github.com/hardenedlinux/0day-industry-awesome/blob/master/pics/opzero2025.png)
